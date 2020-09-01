@@ -17,6 +17,13 @@ What songs are ranked high throughout the year and in what countries?
 
 (https://github.com/mansimajithia/Project-1/blob/master/Geography_Despacito.png)
 
+When approaching the hypothesis we were trying to look at a specific song and look at how it travels throughout the globe when it hits top 1 in each country. After looking at multiple different songs we sorted the data sets of each song by date and then looked at the date that it first hit number 1 in each country and dropped the rest of the data. We noticed that there was no pattern in how a song travels but decided to look at some other questions about the timeline of a song with our data. These two graphs above show how each song is ranked geographically by date. Each song is popular regardless of region at the beginning of the date. There is no discernable trend that the song travels. The regions at the end of the date are in the same geographical regions as those early on. 
+
+* What did the timeline of a song look like?
+* Each song lasted roughly for a few months, it seemed to peak in one month but was still in the top during the surrounding months. 
+* Specifically, certain songs become popular during different seasons depending on their release date, during the holiday months the holiday songs seem to knock other new music off the top charts and take over with an overwhelming amount of streams.
+
+
 ## Data Exploration and Cleanup
 
 * Changed date column to datetime data type instead of object (showed that by df.info() and seeing Date change) because we realized we couldn’t manipulate the actual dates unless it was changed and we wanted to sort data frames by date.
@@ -47,3 +54,5 @@ After working through our challenges, we came to the conclusion that our hypothe
 ![Yearly Graph]
 (https://github.com/mansimajithia/Project-1/blob/master/Yearly.png) 
 
+## Implications of Findings
+We unfortunately didn’t find what we expected to find - which was some sort of travel pattern, where we could see how song popularity travels around the globe. But we did find that songs stay popular for a certain period of time, and this brought us to the idea that maybe these songs are staying popular during a certain few months because the type of song relates to the timing of the year? This got us thinking further - does the genre and mood of a song reflect what season it is most popular in? These questions will allow us to further analyze this data with new ideas and goals - we can look for different trends and conclusions. 
