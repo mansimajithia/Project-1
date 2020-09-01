@@ -1,4 +1,4 @@
-# Project-1
+# Top Trending Spotify Songs
 
 # Objective
 The purpose of the project was to use the Top 5 Spotify Songs per day Database to understand whether songs traveled a certain pattern such as geography.
