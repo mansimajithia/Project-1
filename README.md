@@ -13,7 +13,7 @@ We were wanting to see if there was a travel pattern of how top hits move throug
 
 What songs are ranked high throughout the year and in what countries?
 
-![Geography Image](https://github.com/mansimajithia/Project-1/blob/master/Geography_Despacito.png?raw=true "Title")
+![Geography Image](https://github.com/mansimajithia/Top-Trending-Spotify-Songs/blob/master/Images/Geography_Despacito.png)
 
 When approaching the hypothesis we were trying to look at a specific song and look at how it travels throughout the globe when it hits top 1 in each country. After looking at multiple different songs we sorted the data sets of each song by date and then looked at the date that it first hit number 1 in each country and dropped the rest of the data. We noticed that there was no pattern in how a song travels but decided to look at some other questions about the timeline of a song with our data. These two graphs above show how each song is ranked geographically by date. Each song is popular regardless of region at the beginning of the date. There is no discernable trend that the song travels. The regions at the end of the date are in the same geographical regions as those early on. 
 
