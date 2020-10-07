@@ -49,7 +49,7 @@ When approaching the hypothesis we were trying to look at a specific song and lo
 
 After working through our challenges, we came to the conclusion that our hypothesis was disproved - the trend of a song didn’t follow any geographical path, and it was difficult to conclude any geographical trend. However, we did realize that the number of streams were typically greater during a specific few months, which brought us to the conclusion that songs stay popular for about 3 months and then die out. 
 
-![Yearly Graph](https://github.com/mansimajithia/Project-1/blob/master/Yearly.png?raw=true "Title") 
+![Yearly Graph](https://github.com/mansimajithia/Top-Trending-Spotify-Songs/blob/master/Images/Yearly.png) 
 
 ## Implications of Findings
 We unfortunately didn’t find what we expected to find - which was some sort of travel pattern, where we could see how song popularity travels around the globe. But we did find that songs stay popular for a certain period of time, and this brought us to the idea that maybe these songs are staying popular during a certain few months because the type of song relates to the timing of the year? This got us thinking further - does the genre and mood of a song reflect what season it is most popular in? These questions will allow us to further analyze this data with new ideas and goals - we can look for different trends and conclusions. 
